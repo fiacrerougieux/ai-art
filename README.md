@@ -21,6 +21,7 @@ https://huggingface.co/spaces/Salesforce/BLIP
 
 ## Prompt builder:  
 https://promptomania.com/stable-diffusion-prompt-builder/  
+https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion  
 
 ## Notebooks on:  
 https://pharmapsychotic.com/tools.html  
