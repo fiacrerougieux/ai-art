@@ -3,13 +3,16 @@
 ## Repositories:  
 https://libraire.ai/  
 https://lexica.art/  
-https://www.krea.ai/  
+https://www.krea.ai/   
+https://pagebrain.ai/promptsearch/      
 
 ## Artists and modifiers studies:  
 https://www.urania.ai/top-sd-artists  
 https://matthewmcateer.me/blog/clip-prompt-engineering/  
 https://www.the-ai-art.com/modifiers  
 https://f000.backblazeb2.com/file/clip-artists/index.html  
+https://docs.google.com/document/u/0/d/1R2UZi5G-DXiz2HcCrfAFLYJoer_JPDEoZmV7wy1tEz0/mobilebasic    
+
 
 ## Dataset:  
 https://rom1504.github.io/clip-retrieval/  
@@ -22,6 +25,7 @@ https://huggingface.co/spaces/Salesforce/BLIP
 ## Prompt builder:  
 https://promptomania.com/stable-diffusion-prompt-builder/  
 https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion  
+https://rexwang8.github.io/resource/ai/generator   
 
 ## Notebooks on:  
 https://pharmapsychotic.com/tools.html  
