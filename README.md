@@ -7,6 +7,7 @@ https://www.krea.ai/
 https://prompthero.com/   
 https://openart.ai/   
 https://pagebrain.ai/promptsearch/      
+https://prompthero.com/random        
 
 ## Artists and modifiers studies:  
 https://www.urania.ai/top-sd-artists  
@@ -17,6 +18,7 @@ https://docs.google.com/document/u/0/d/1R2UZi5G-DXiz2HcCrfAFLYJoer_JPDEoZmV7wy1t
 https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFEAkA/edit#gid=0    
 https://aiartcreation.fandom.com/wiki/Collection:_Modern_Art/Pop_Art    
 https://aesthetics.fandom.com/wiki/List_of_Aesthetics     
+https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582     
 
 ## Matrix
 Cfg and step matrix    
