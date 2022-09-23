@@ -4,6 +4,8 @@
 https://libraire.ai/  
 https://lexica.art/  
 https://www.krea.ai/   
+https://prompthero.com/   
+https://openart.ai/   
 https://pagebrain.ai/promptsearch/      
 
 ## Artists and modifiers studies:  
