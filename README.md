@@ -6,8 +6,7 @@ https://lexica.art/
 https://www.krea.ai/   
 https://prompthero.com/   
 https://openart.ai/   
-https://pagebrain.ai/promptsearch/      
-https://prompthero.com/random        
+https://pagebrain.ai/promptsearch/        
 
 ## Artists and modifiers studies:  
 https://www.urania.ai/top-sd-artists  
