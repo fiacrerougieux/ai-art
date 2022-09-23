@@ -29,6 +29,7 @@ https://huggingface.co/spaces/Salesforce/BLIP
 https://promptomania.com/stable-diffusion-prompt-builder/  
 https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion  
 https://rexwang8.github.io/resource/ai/generator   
+https://tools.saxifrage.xyz/prompt     
 
 ## Notebooks on:  
 https://pharmapsychotic.com/tools.html  
