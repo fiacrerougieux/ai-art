@@ -18,6 +18,10 @@ https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFE
 https://aiartcreation.fandom.com/wiki/Collection:_Modern_Art/Pop_Art    
 https://aesthetics.fandom.com/wiki/List_of_Aesthetics     
 
+## Matrix
+Cfg and step matrix    
+https://docs.google.com/spreadsheets/d/1SYQhyJaKkkY0cmPd0WQvPwEX188l5FZxzukkC7IQDw4/htmlview    
+
 ## Dataset:  
 https://rom1504.github.io/clip-retrieval/  
 https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images  
