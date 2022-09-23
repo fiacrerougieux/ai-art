@@ -15,7 +15,7 @@ https://www.the-ai-art.com/modifiers
 https://f000.backblazeb2.com/file/clip-artists/index.html  
 https://docs.google.com/document/u/0/d/1R2UZi5G-DXiz2HcCrfAFLYJoer_JPDEoZmV7wy1tEz0/mobilebasic    
 https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFEAkA/edit#gid=0    
-
+https://aiartcreation.fandom.com/wiki/Collection:_Modern_Art/Pop_Art    
 
 ## Dataset:  
 https://rom1504.github.io/clip-retrieval/  
