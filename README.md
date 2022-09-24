@@ -18,6 +18,7 @@ https://docs.google.com/spreadsheets/d/1-snKDn38-KypoYCk9XLPg799bHcNFSBAVu2HVvFE
 https://aiartcreation.fandom.com/wiki/Collection:_Modern_Art/Pop_Art    
 https://aesthetics.fandom.com/wiki/List_of_Aesthetics     
 https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582     
+https://docs.google.com/document/d/1SaQx1uJ9LBRS7c6OsZIaeanJGkUdsUBjk9X4dC59BaA/edit#heading=h.gek9bq974vxp    
 
 ## Matrix
 Cfg and step matrix    
