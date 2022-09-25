@@ -38,6 +38,10 @@ https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion
 https://rexwang8.github.io/resource/ai/generator   
 https://tools.saxifrage.xyz/prompt     
 
+## Writing    
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features    
+https://moritz.pm/posts/parameters     
+
 ## Notebooks on:  
 https://pharmapsychotic.com/tools.html  
 
