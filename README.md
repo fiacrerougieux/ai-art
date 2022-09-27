@@ -40,7 +40,7 @@ https://rexwang8.github.io/resource/ai/generator
 https://tools.saxifrage.xyz/prompt     
 
 ## Reading    
-http://www.visual-arts-cork.com/site/art-styles.html     
+http://www.visual-arts-cork.com/site/art-styles.htm          
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features    
 https://moritz.pm/posts/parameters    
 https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg     
