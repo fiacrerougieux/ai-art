@@ -40,13 +40,14 @@ https://tools.saxifrage.xyz/prompt
 
 ## Writing    
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features    
-https://moritz.pm/posts/parameters     
+https://moritz.pm/posts/parameters    
+https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg     
 
 ## Notebooks on:  
 https://pharmapsychotic.com/tools.html  
 
 ## Parameters
-https://github.com/Maks-s/sd-akashic/blob/master/img/brbbbq-dimensions.png
+https://github.com/Maks-s/sd-akashic/blob/master/img/brbbbq-dimensions.png     
 
 ## Extra:  
 Do 50-100+ batches  
