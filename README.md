@@ -45,6 +45,9 @@ https://moritz.pm/posts/parameters
 ## Notebooks on:  
 https://pharmapsychotic.com/tools.html  
 
+## Parameters
+https://github.com/Maks-s/sd-akashic/blob/master/img/brbbbq-dimensions.png
+
 ## Extra:  
 Do 50-100+ batches  
 Do brute force evaluation of combined cfg scale and number of diffusion steps mapping.   
