@@ -48,16 +48,17 @@ Timeline of art
 http://www.visual-arts-cork.com/site/timeline.htm      
 Description of the many techniques to generate images     
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features    
+Describe the way different samplers differ    
+https://www.reddit.com/r/StableDiffusion/comments/xbeyw3/can_anyone_offer_a_little_guidance_on_the/inzhdki?utm_medium=android_app&utm_source=share&context=3     
 Cheat sheet    
 https://moritz.pm/posts/parameters    
 Camera parameters    
 https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg          
+Describe the image size that can be generated     
+https://github.com/Maks-s/sd-akashic/blob/master/img/brbbbq-dimensions.png     
 
 ## Notebooks on:  
-https://pharmapsychotic.com/tools.html  
-
-## Parameters
-https://github.com/Maks-s/sd-akashic/blob/master/img/brbbbq-dimensions.png     
+https://pharmapsychotic.com/tools.html    
 
 ## Extra:  
 Do 50-100+ batches  
