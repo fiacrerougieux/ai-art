@@ -43,6 +43,7 @@ https://tools.saxifrage.xyz/prompt
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features    
 https://moritz.pm/posts/parameters    
 https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg     
+https://rexwang8.github.io/resource/ai/teapot     
 
 ## Notebooks on:  
 https://pharmapsychotic.com/tools.html  
