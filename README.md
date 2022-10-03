@@ -63,8 +63,17 @@ https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg
 Describe the image size that can be generated     
 https://github.com/Maks-s/sd-akashic/blob/master/img/brbbbq-dimensions.png     
 
+## Discord:
+ Stable diffusion    
+ https://discord.gg/dUkzQEKA    
+ Deforum    
+ https://discord.gg/deforum     
+ Webui     
+ https://discord.gg/dUkzQEKA       
+
 ## Notebooks on:  
 https://pharmapsychotic.com/tools.html    
+https://github.com/awesome-stable-diffusion/awesome-stable-diffusion      
 
 ## Extra:  
 Do 50-100+ batches  
