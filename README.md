@@ -22,6 +22,10 @@ https://docs.google.com/document/d/1SaQx1uJ9LBRS7c6OsZIaeanJGkUdsUBjk9X4dC59BaA/
 https://sgreens.notion.site/sgreens/4ca6f4e229e24da6845b6d49e6b08ae7?v=fdf861d1c65d456e98904fe3f3670bd3    
 https://docs.google.com/spreadsheets/d/1SRqJ7F_6yHVSOeCi3U82aA448TqEGrUlRrLLZ51abLg/htmlview   
 https://docs.google.com/document/d/1ZtNwY1PragKITY0F4R-f8CarwHojc9Wrf37d0NONHDg/edit     
+
+Film study    
+https://artblind.notion.site/artblind/3e50796fe6904048981156436145d501?v=37dab85d14ae404da8ae2455e6d07f8a     
+
 Tea pot study    
 https://rexwang8.github.io/resource/ai/teapot    
 
