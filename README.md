@@ -46,7 +46,6 @@ https://promptomania.com/stable-diffusion-prompt-builder/
 https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion  
 https://rexwang8.github.io/resource/ai/generator   
 https://tools.saxifrage.xyz/prompt     
-https://www.aiprompt.io/     
 
 ## Reading    
 A Z of art movements    
